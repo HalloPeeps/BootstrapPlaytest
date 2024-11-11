@@ -1,0 +1,26 @@
+body{
+    background-color: #40344d;
+}
+
+nav{
+    background-color: hlsa(0, 100, 100, 0.9);
+}
+
+img.logo{
+    height:fit-content;
+}
+img#caro1{
+    width:100%;
+    height:auto;
+    max-height:600px;
+}
+img#caro2{
+    width:100%;
+    height:auto;
+    max-height:600px;
+}
+img#caro3{
+    width:100%;
+    height:auto;
+    max-height:600px;
+}
